@@ -1,0 +1,4 @@
+#+title: SkipList
+#+author: Brian Lester
+
+A toy SkipList implementation based on [[https://ketansingh.me/posts/lets-talk-skiplist/][this blog post]].
